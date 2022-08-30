@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Aug 30 18:46:01 GMT 2022","Tue Aug 30 18:46:01 GMT 2022","421","","ru.sberhealth.VacancyTest","","ru.sberhealth.VacancyTest","headTextTest","headTextTest(int) tab 0 is selected",""
+"passed","Tue Aug 30 18:46:02 GMT 2022","Tue Aug 30 18:46:02 GMT 2022","614","","ru.sberhealth.VacancyTest","","ru.sberhealth.VacancyTest","headTextTest","headTextTest(int) tab 1 is selected",""
+"passed","Tue Aug 30 18:46:07 GMT 2022","Tue Aug 30 18:46:07 GMT 2022","451","","ru.sberhealth.VacancyTest","","ru.sberhealth.VacancyTest","headTextTest","headTextTest(int) tab 4 is selected",""
+"passed","Tue Aug 30 18:46:07 GMT 2022","Tue Aug 30 18:46:07 GMT 2022","144","","ru.sberhealth.VacancyTest","","ru.sberhealth.VacancyTest","headTextTest","headTextTest(int) tab 3 is selected",""
+"failed","Tue Aug 30 18:46:02 GMT 2022","Tue Aug 30 18:46:07 GMT 2022","4480","","ru.sberhealth.VacancyTest","","ru.sberhealth.VacancyTest","headTextTest","headTextTest(int) tab 2 is selected",""
