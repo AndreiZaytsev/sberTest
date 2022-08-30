@@ -6,6 +6,4 @@ public class TestData {
             tabIsActive = "tab-item__link--active",
             expectedTextInHeader = "Главная О нас Наши ценности Условия работы Вакансии",
             headTextAddress = "ul.navigation-menu-desktop__links";
-
-
 }

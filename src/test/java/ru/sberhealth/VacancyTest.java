@@ -26,27 +26,5 @@ public class VacancyTest {
         $$(headTextAddress).shouldHave(texts(expectedTextInHeader));
         $$(headCollection).get(testData).click();
         $$(headCollection).get(testData).shouldHave(cssClass(tabIsActive));
-
     }
 }
-
-
-//    @Test
-//    public void mainPageTest() {
-//        $$(headTextAddress).shouldHave(texts(expectedTextInHeader));
-//        $$(headCollection).get(0).click();
-//        $$(headCollection).get(0).shouldHave(cssClass(tabIsActive));
-//
-//        $$(headCollection).get(1).click();
-//        $$(headCollection).get(1).shouldHave(cssClass(tabIsActive));
-//
-//        $$(headCollection).get(2).click();
-//        $$(headCollection).get(2).shouldHave(cssClass(tabIsActive));
-//
-//        $$(headCollection).get(3).click();
-//        $$(headCollection).get(3).shouldHave(cssClass(tabIsActive));
-//
-//        $$(headCollection).get(4).click();
-//        $$(headCollection).get(4).shouldHave(cssClass(tabIsActive));
-//    }
-//}
